@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: brown;
+}
+
+#omnie{
+    float: left;
+    background-color: red;
+    font-weight:bold;
+    font-style: italic;
+    margin-left: 2px;
+    padding-bottom: 2px;
+}
+
+table{
+    border-style: dashed;
+    border-color: brown;
+    border-width: 50%;
+}
+
+ul{
+    list-style: upper-roman;
+}
+
+#przycisk{
+    background-color: yellow;
+    border-color: black;
+    border-width: 120%;
+}
+
+.jeden{
+    background-color: blue;
+}
+
+#dwa{
+    background-color: yellow;
+}
+
+#trzy{
+    background-color: blueviolet;
+}
